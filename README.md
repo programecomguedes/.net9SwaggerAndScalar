@@ -23,3 +23,5 @@ app.MapScalarApiReference(options => options.Servers = []);
 ```docker
 ENV ASPNETCORE_ENVIRONMENT=Development
 ```
+## Assista no YouTube
+- [.NET 9 - Configurando o Swagger e Scalar](https://youtu.be/fyfMBRPZsY8)
